@@ -1,4 +1,4 @@
-#### This is the core code for paper "Reverse Physician-AI Relationship: Full-process Clinical Diagnosis Driven by a Large Language Model"
+#### This is the core code for paper "DxDirector: an agentic large language model driving the full-process clinical diagnosis"
 
 
 ```
@@ -40,6 +40,17 @@ Need one Nvidia A100 80G GPU.
 ```
 sh Inference/DxDirector.sh
 Expected run time: 2s for a sample.
+```
+
+### Citation
+```
+@article{xu2026dxdirector,
+  title={DxDirector: an agentic large language model driving the full-process clinical diagnosis},
+  author={Xu, Shicheng and Huang, Xin and Wei, Zihao and Pang, Liang and Shen, Huawei and Cheng, Xueqi},
+  journal={Nature Communications},
+  year={2026},
+  publisher={Nature Publishing Group}
+}
 ```
 
 
