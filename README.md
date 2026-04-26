@@ -1,4 +1,4 @@
-#### This is the core code for paper "DxDirector: an agentic large language model driving the full-process clinical diagnosis"
+#### This is the source code for paper "DxDirector: an agentic large language model driving the full-process clinical diagnosis"
 
 
 ```
