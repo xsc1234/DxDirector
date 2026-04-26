@@ -1,0 +1,6 @@
+model_name_or_path: /DxDirector-7B
+infer_backend: vllm
+template: empty
+vllm_enforce_eager: true
+vllm_maxlen: 2048
+do_sample: false
